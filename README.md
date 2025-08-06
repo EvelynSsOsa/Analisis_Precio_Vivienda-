@@ -38,7 +38,8 @@ El objetivo fue:
 
 - `analusis_exploratorio.ipynb`: Notebook principal con todo el análisis, pasos comentados y visualizaciones.
 - `train.csv`: Dataset usado para el análisis.
-- `captura_jupyter.png`: Una imagen del entorno de trabajo desde JupyterLab.
+
+<img width="1279" height="956" alt="Captura de pantalla 2025-08-06 a la(s) 1 50 20 p m" src="https://github.com/user-attachments/assets/3b915f47-3bad-4fa8-92a1-6bbb2d067752" />
 
 ---
 
